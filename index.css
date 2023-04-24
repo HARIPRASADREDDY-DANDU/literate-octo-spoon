@@ -27,8 +27,15 @@ body::-webkit-scrollbar-thumb
 	background-color: #e3996e;
 }
 
-
-
+.logoimg{
+    width: 40px;
+    height: 40px;
+    margin-left: 20px;
+}
+.main{
+    margin-left: 55px;
+    margin-top: -39px;
+}
 
 
 .background {

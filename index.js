@@ -1,3 +1,7 @@
+// function showalert() {
+//   alert("You are navigating to google form's for filling the data.");
+// }
+
 // Get the "Read More" and "Read Less" buttons and content pages
 const readMoreButton = document.getElementById('read-more-button');
 const readLessButton = document.getElementById('read-less-button');
@@ -48,3 +52,8 @@ readLessButton.addEventListener('click', () => {
 
 // Hide the "Read Less" button initially
 readLessButton.style.display = 'none';
+
+
+// alert button
+
+
